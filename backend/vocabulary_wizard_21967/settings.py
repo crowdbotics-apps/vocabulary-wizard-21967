@@ -48,6 +48,8 @@ INSTALLED_APPS = [
     "django.contrib.sites",
     "course",
     "event",
+    "chat",
+    "chat_user_profile",
 ]
 LOCAL_APPS = [
     "home",
